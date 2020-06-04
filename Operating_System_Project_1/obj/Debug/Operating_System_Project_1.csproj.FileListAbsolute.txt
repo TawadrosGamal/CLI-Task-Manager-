@@ -1,0 +1,10 @@
+F:\3fci\second semi\os\Operating_System_Project_1\bin\Debug\Operating_System_Project_1.exe.config
+F:\3fci\second semi\os\Operating_System_Project_1\bin\Debug\Operating_System_Project_1.exe
+F:\3fci\second semi\os\Operating_System_Project_1\bin\Debug\Operating_System_Project_1.pdb
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.csprojAssemblyReference.cache
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.Form1.resources
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.Properties.Resources.resources
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.csproj.GenerateResource.cache
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.csproj.CoreCompileInputs.cache
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.exe
+F:\3fci\second semi\os\Operating_System_Project_1\obj\Debug\Operating_System_Project_1.pdb
