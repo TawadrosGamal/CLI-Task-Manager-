@@ -1,5 +1,5 @@
 # CLI-Task-Manager-
-CLI Task Manager made with C#
+CLI Task Manager made with C# and a GUI version
 
 the CLI only has 3 commands
 
