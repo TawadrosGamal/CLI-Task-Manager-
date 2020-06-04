@@ -1,0 +1,7 @@
+F:\3fci\second semi\os\OS_project1\bin\Debug\OS_project1.exe.config
+F:\3fci\second semi\os\OS_project1\bin\Debug\OS_project1.exe
+F:\3fci\second semi\os\OS_project1\bin\Debug\OS_project1.pdb
+F:\3fci\second semi\os\OS_project1\obj\Debug\OS_project1.csprojAssemblyReference.cache
+F:\3fci\second semi\os\OS_project1\obj\Debug\OS_project1.csproj.CoreCompileInputs.cache
+F:\3fci\second semi\os\OS_project1\obj\Debug\OS_project1.exe
+F:\3fci\second semi\os\OS_project1\obj\Debug\OS_project1.pdb
